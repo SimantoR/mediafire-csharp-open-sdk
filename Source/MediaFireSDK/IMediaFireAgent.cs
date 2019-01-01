@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using MediaFireSDK.Core;
 using MediaFireSDK.Model;
 using MediaFireSDK.Model.Responses;
 using MediaFireSDK.Multimedia;
-using Org.BouncyCastle.Bcpg;
 
 namespace MediaFireSDK
 {
